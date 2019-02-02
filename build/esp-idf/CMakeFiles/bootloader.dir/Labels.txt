@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/CMakeFiles/bootloader
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/CMakeFiles/bootloader.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/CMakeFiles/bootloader-complete.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

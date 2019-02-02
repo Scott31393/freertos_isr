@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/esp-idf/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

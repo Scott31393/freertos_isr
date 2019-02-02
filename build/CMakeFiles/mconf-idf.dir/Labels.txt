@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/CMakeFiles/mconf-idf
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/CMakeFiles/mconf-idf.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/CMakeFiles/mconf-idf-complete.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/tom/embedded_project/esp/freertos_interrupt_ISR/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule

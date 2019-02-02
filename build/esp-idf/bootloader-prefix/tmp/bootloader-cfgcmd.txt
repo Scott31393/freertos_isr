@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/tom/embedded_project/esp/freertos_interrupt_ISR/sdkconfig;-DIDF_PATH=/home/tom/embedded_project/esp/esp-idf;-DSECURE_BOOT_SIGNING_KEY=/home/tom/embedded_project/esp/freertos_interrupt_ISR;-GUnix Makefiles;/home/tom/embedded_project/esp/esp-idf/components/bootloader/subproject'
